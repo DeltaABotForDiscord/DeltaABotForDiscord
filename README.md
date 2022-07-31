@@ -13,5 +13,5 @@ I'm a simple bot for discord developed in javascript.
 - [Website](https://deltawebsite.cf/) 💻 - Working on it.
 <br>
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesSaAko-Bot&layout=compact&heigt=&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrilima-company&layout=compact&heigt=&theme=dark">
 </a>
